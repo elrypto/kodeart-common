@@ -1,6 +1,6 @@
 {
   "name": "kodeart-common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common React components and hooks written in Typescript for nextjs",
   "main": "index.js",
   "repository": {
