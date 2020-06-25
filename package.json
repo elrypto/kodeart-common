@@ -1,0 +1,27 @@
+{
+  "name": "kodeart-common",
+  "version": "1.0.0",
+  "description": "Common React components and hooks written in Typescript for nextjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrypto/kodeart-common.git"
+  },
+  "keywords": [],
+  "author": "elrypto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrypto/kodeart-common/issues"
+  },
+  "homepage": "https://github.com/lrypto/kodeart-common#readme",
+  "devDependencies": {
+    "np": "^6.2.4"
+  },
+  "dependencies": {
+    "@types/react": "^16.9.41",
+    "react": "^16.13.1"
+  }
+}
