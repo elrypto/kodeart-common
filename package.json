@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Common React components and hooks written in Typescript for nextjs",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lrypto/kodeart-common.git"
